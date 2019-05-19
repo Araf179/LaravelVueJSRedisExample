@@ -7,10 +7,10 @@
     <div class="row h-full">
         <div class="col-12 col-lg-8 offset-lg-2 align-self-center">
 
-        <h1 class="display-4 hidden-sm-down">Cryptocurrency Signal Service</h1>
+        <h1 class="display-4 hidden-sm-down">Investor Signal Service</h1>
         <h1 class="hidden-md-up">The Best Cryptocurrency Signals</h1>
         <br>
-        <p class="lead text-white fs-20 hidden-sm-down"><span class="fw-400">Cryptocurrency Signal Service</span> is an awesome web development learning<br>subscription based signal provider service<span class="mark-border">Laravel 5.5   </span>.</p>
+        <p class="lead text-white fs-20 hidden-sm-down"><span class="fw-400">Investors Signal Service</span> is an awesome place to get investing signals</span>.</p>
 
          <br><br><br>
 
@@ -34,7 +34,7 @@
         <div class="container">
           <header class="section-header">
             <small>lessons</small>
-            <h2>Featured Screencasts</h2>
+            <h2>Top Rated Signal Providers</h2>
             <hr>
             <p class="lead"></p>
           </header>

@@ -29,7 +29,7 @@
         <div class="topbar-left">
           <button class="topbar-toggler">&#9776;</button>
           <a class="topbar-brand" href="/" style="color: white;">
-            Cryptocurrency Signal Service
+            Investor Signal Service
           </a>
         </div>
 
